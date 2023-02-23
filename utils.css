@@ -1,0 +1,28 @@
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+
+
+.justify-center{
+ justify-content: center;   
+}
+
+.space-between{
+    justify-content: space-between;
+}
+.semibold{
+    font-weight: bolder;
+}
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.font-size{
+    font-size: 12px;
+}
+.font-size1{
+    font-size: 9px;
+}
